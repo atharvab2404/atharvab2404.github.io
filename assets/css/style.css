@@ -1119,7 +1119,17 @@ section {
 }
 .skl{
   font-size: 1.2rem;
-  width: 200px;
+  width: 250px;
   display: flex;
   align-items: center;
+}
+
+.c-highlights{
+  display: flex;
+  margin-left: 150px;
+}
+.skills1{
+  width: 900px;
+  color: olivedrab;
+
 }
